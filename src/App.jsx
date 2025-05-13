@@ -4,7 +4,10 @@ import Hero from './sections/Hero';
 function App() {
 	return (
 		<div className="text-2xl font-bold">
-			<Hero />
+			{/* <Hero /> */}
+			<h2 className="flex items-center justify-center h-screen ">
+				shibasankar kar
+			</h2>
 		</div>
 	);
 }
